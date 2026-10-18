@@ -1,0 +1,38 @@
+UNIVERSITY LIBRARY SUMMARY
+Books: 50
+Members: 30
+Borrowing records: 30
+Books currently borrowed: 20
+Most frequently borrowed book: Number Patterns 5 (1 loans)
+
+BORROWING RECORDS
+1 | Book 37 | Member 1 | Returned: 1
+2 | Book 6 | Member 12 | Returned: 0
+3 | Book 32 | Member 20 | Returned: 0
+4 | Book 17 | Member 5 | Returned: 1
+5 | Book 3 | Member 22 | Returned: 0
+6 | Book 1 | Member 5 | Returned: 0
+7 | Book 10 | Member 18 | Returned: 1
+8 | Book 43 | Member 23 | Returned: 0
+9 | Book 38 | Member 30 | Returned: 0
+10 | Book 31 | Member 13 | Returned: 1
+11 | Book 24 | Member 4 | Returned: 0
+12 | Book 21 | Member 16 | Returned: 0
+13 | Book 2 | Member 30 | Returned: 1
+14 | Book 18 | Member 29 | Returned: 0
+15 | Book 48 | Member 5 | Returned: 0
+16 | Book 13 | Member 19 | Returned: 1
+17 | Book 27 | Member 13 | Returned: 0
+18 | Book 7 | Member 11 | Returned: 0
+19 | Book 35 | Member 27 | Returned: 1
+20 | Book 19 | Member 8 | Returned: 0
+21 | Book 50 | Member 16 | Returned: 0
+22 | Book 23 | Member 6 | Returned: 1
+23 | Book 26 | Member 29 | Returned: 0
+24 | Book 40 | Member 9 | Returned: 0
+25 | Book 9 | Member 20 | Returned: 1
+26 | Book 22 | Member 24 | Returned: 0
+27 | Book 20 | Member 9 | Returned: 0
+28 | Book 25 | Member 6 | Returned: 1
+29 | Book 46 | Member 9 | Returned: 0
+30 | Book 14 | Member 16 | Returned: 0
